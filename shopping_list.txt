@@ -3,3 +3,4 @@ portokali x15
 mandarini x19
 leb x4
 lesnici x88
+bademi x4
