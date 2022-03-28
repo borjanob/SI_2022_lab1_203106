@@ -1,5 +1,5 @@
 banani x2
 portokali x15
 mandarini x19
-leb x3
+leb x4
 lesnici x88
