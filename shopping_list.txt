@@ -2,4 +2,4 @@ banani x2
 portokali x5
 mandarini x19
 leb x3
-lesnici x88
+lesnici x2
