@@ -1,0 +1,58 @@
+4.  $ git clone https://github.com/borjanob/SI_2022_lab1_203106.git
+5. $ cd SI_2022_lab1_203106
+$ git add .
+$ nano shopping_list.txt
+$ git commit -m "Add 5 items to the shopping list"
+$ git push
+6.
+ $ nano shopping_list.txt
+$ git add .
+$  git commit -m "Add quantities to the items"
+$ git push
+7.
+$ git branch branch1
+$ git branch branch2
+9.
+ $ git checkout branch1
+$ git add .
+$ git commit -m "Adding branches"
+$ git push origin branch1
+$ git checkout branch2
+$ git add .
+$ git commit -m "Adding branches"
+$ git push origin branch2
+10.
+$ git checkout branch1
+11.
+$ nano shopping_list.txt
+$ git add .
+$ git commit -m "Change quantity of item #5"
+$ git push origin branch1
+12.
+$ git checkout master
+13.
+$ nano shopping_list.txt
+$ git add .
+$ git commit -m "Change quality of item #2"
+$ git push
+15.
+$ git checkout branch2
+16.
+$ nano shopping_list.txt
+$ git add .
+$ git commit -m "Change quantity of item #4"
+$ git push origin branch2
+18.
+$ nano shopping_list.txt
+$ git add .
+$ git commit -m "Modify item #4 and item #6"
+$ git push origin branch2
+20.
+$ git checkout master
+$ git merge branch1
+21. 
+$ git merge branch2
+$ git add.
+$ git commit -m
+23.
+$ git push
